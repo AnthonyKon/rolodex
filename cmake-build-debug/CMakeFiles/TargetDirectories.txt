@@ -1,0 +1,3 @@
+C:/CP2/rolodex/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CP2/rolodex/cmake-build-debug/CMakeFiles/rolodex.dir
+C:/CP2/rolodex/cmake-build-debug/CMakeFiles/rebuild_cache.dir

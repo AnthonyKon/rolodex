@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="rolodex" targetName="rolodex" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1774397-1c67-4fd0-9d73-2576e4138a3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="gvrepQxf" />
+  </component>
+  <component name="ProjectId" id="1a6L1V2e7j1tbxiFnRLlmwYNbmn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="rolodex" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="rolodex" TARGET_NAME="rolodex" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="rolodex" RUN_TARGET_NAME="rolodex">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\antho\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\CP2\rolodex" />
+          <option name="myCopyRoot" value="C:\CP2\rolodex" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\CP2\rolodex" />
+          <option name="myCopyRoot" value="C:\CP2\rolodex" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1774397-1c67-4fd0-9d73-2576e4138a3c" name="Default Changelist" comment="" />
+      <created>1586050884888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586050884888</updated>
+      <workItem from="1586050908995" duration="4124000" />
+      <workItem from="1586416667018" duration="171000" />
+      <workItem from="1586928816780" duration="1255000" />
+      <workItem from="1586933676437" duration="853000" />
+      <workItem from="1586940311739" duration="21000" />
+      <workItem from="1586940509797" duration="7554000" />
+      <workItem from="1587102002639" duration="16467000" />
+      <workItem from="1587187478745" duration="2284000" />
+      <workItem from="1587190151553" duration="13650000" />
+      <workItem from="1587349374420" duration="651000" />
+      <workItem from="1587350080385" duration="83000" />
+      <workItem from="1588042134924" duration="55000" />
+      <workItem from="1603099320777" duration="1440000" />
+      <workItem from="1603106844749" duration="3394000" />
+    </task>
+    <task id="LOCAL-00001" summary="Level One - Basic operations">
+      <created>1603109144092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603109144092</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Level Two - Duplicate handling implemented">
+      <created>1603109675251</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603109675251</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Level Two - Duplicate handling implemented2">
+      <created>1603109918170</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603109918170</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Level One - Basic operations" />
+    <MESSAGE value="Level Two - Duplicate handling implemented" />
+    <MESSAGE value="Level Two - Duplicate handling implemented2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Level Two - Duplicate handling implemented2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="107" key="CommitChangelistDialog2" timestamp="1603109917084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="107" key="CommitChangelistDialog2/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1603109917084" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603110206891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1603110206891" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603110206891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1603110206891" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603110206891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1603110206891" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603110206891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1603110206891" />
+    <state x="1195" y="0" width="732" height="1047" key="dock-window-1" timestamp="1603099841951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1195" y="0" width="732" height="1047" key="dock-window-1/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1603099841951" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1603110232837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1603110232837" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/CP2/rolodex/Rolodex.h
+string
+-
+
+C:/CP2/rolodex/main.cpp
+iostream
+-
+string
+-
+unistd.h
+-
+Rolodex.h
+C:/CP2/rolodex/Rolodex.h
+
